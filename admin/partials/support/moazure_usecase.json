@@ -1,0 +1,6 @@
+{
+    "azure":{"1":"Azure Multi-tenant login","2":"User Registration in Azure AD at WooCommerce checkout","3":"Provision/Sync users from WordPress to Azure AD (On the fly user provisioning)","4":"Restrict WP pages and posts based on Azure user groups","link":"https://plugins.miniorange.com/wordpress-azure-office365-integrations"
+    },
+    "azureb2c":{"1":"User Registration in Azure B2C at WooCommerce checkout","2":"Synchronize your users and groups from Azure B2C to WordPress & vice versa","3":"Display your complete Azure B2C users directory in the WordPress along with profile pictures","link":"https://plugins.miniorange.com/wordpress-azure-integration"
+    }
+}
